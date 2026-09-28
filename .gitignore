@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Cached weekly weights; regenerate with scripts/run_experiments.py
+results/weights/

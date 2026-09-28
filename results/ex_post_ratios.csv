@@ -1,0 +1,25 @@
+library,ratio,dataset,NO,EW,MI
+Updated Library,Calmar,HDAX,0.0767,0.0649,0.0549
+Updated Library,Calmar,FTSE100,0.1029,0.0927,0.0427
+Updated Library,Calmar,HSCI,0.0978,0.0709,0.0314
+Updated Library,Calmar,S&P500,0.2035,0.0994,0.0625
+BCST-Library,Calmar,DJIA,0.0157,0.0248,0.0132
+BCST-Library,Calmar,NASDAQ100,0.1940,0.1518,0.1391
+BCST-Library,Calmar,FTSE100,0.0843,0.1230,0.0434
+BCST-Library,Calmar,S&P500,0.1298,0.0986,0.0910
+Updated Library,Martin,HDAX,0.1798,0.2408,0.2073
+Updated Library,Martin,FTSE100,0.3807,0.3441,0.1497
+Updated Library,Martin,HSCI,0.4001,0.2278,0.0936
+Updated Library,Martin,S&P500,0.4792,0.6168,0.3705
+BCST-Library,Martin,DJIA,0.0553,0.1484,0.0624
+BCST-Library,Martin,NASDAQ100,0.5783,0.6691,0.5177
+BCST-Library,Martin,FTSE100,0.4715,0.4215,0.1366
+BCST-Library,Martin,S&P500,0.6447,0.4390,0.4020
+Updated Library,Pain,HDAX,0.2577,0.3764,0.3241
+Updated Library,Pain,FTSE100,0.5385,0.5190,0.2229
+Updated Library,Pain,HSCI,0.4922,0.3335,0.1265
+Updated Library,Pain,S&P500,0.8854,1.1623,0.6539
+BCST-Library,Pain,DJIA,0.1050,0.3078,0.1135
+BCST-Library,Pain,NASDAQ100,0.9708,1.1577,0.8021
+BCST-Library,Pain,FTSE100,0.6819,0.6494,0.1991
+BCST-Library,Pain,S&P500,0.8777,0.7573,0.6733
